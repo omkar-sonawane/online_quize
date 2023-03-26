@@ -162,7 +162,7 @@ const questions = [
   
   //online code
   
-  var timeleft = 5;
+  var timeleft = 60;
   
   var downloadTimer = setInterval(function() {
     if (timeleft < 0) {
